@@ -1,3 +1,9 @@
+
+## Update 2018
+- HR is challenging for me. Need to do more of that.
+  Sometimes, I just don't get one case the pass.
+  I'm focusing on their Algorithms section
+  
 # H-ckerrank
 I started H@ckerrank today. 
 I joined a Pyth0n meetup today that is also doing some stuff on H@ckerrank. 
